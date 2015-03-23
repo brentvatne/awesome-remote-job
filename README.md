@@ -126,6 +126,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Lincoln Loop](https://lincolnloop.com/careers/)
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Lullabot](https://www.lullabot.com/jobs)
+  1. [Madriska](http://www.madriska.com) - Full-service software consultancy. Ruby/Rails, JS/React, with a bit of Haskell and Clojure.
   1. [Mapbox](https://www.mapbox.com/jobs/)
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
